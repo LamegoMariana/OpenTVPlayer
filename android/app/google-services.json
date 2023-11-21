@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559424885182",
+    "project_id": "open-tv-player-1a9c2",
+    "storage_bucket": "open-tv-player-1a9c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559424885182:android:3ecc8ae072b0280aece9ef",
+        "android_client_info": {
+          "package_name": "mx.iteso.opentvplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAWRQBLvJztMLtJGyyECy4ojCpcHpezs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
