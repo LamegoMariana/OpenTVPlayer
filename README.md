@@ -52,7 +52,3 @@ samples, guidance on mobile development, and a full API reference.
 ![Captura de Pantalla 2](ruta/captura2.png)
 ![Captura de Pantalla 3](ruta/captura3.png)
 
----
-
-*Este README proporciona una visión general de la aplicación Open TV Player y destaca los desafíos y aprendizajes clave durante el desarrollo.*
-
